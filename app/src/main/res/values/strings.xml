@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StudentBeansDemo</string>
+    <!-- Strings related to login -->
+    <string name="welcome_back_text_main">Welcome back</string>
+    <string name="welcome_back_text_sub">Log in to your Student Beans account</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Log In</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="invalid_password_too_short">Password must be 8 or more characters long</string>
+    <string name="invalid_password">Password must be a combination of at least three of the following:\nUppercase letters\nLowercase letters\nDigits\nSymbols</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- Strings related to photos -->
+    <string name="photos_label">Photos</string>
+    <string name="photo_content_description">Sample Photo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
